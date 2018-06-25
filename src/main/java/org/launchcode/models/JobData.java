@@ -17,7 +17,7 @@ import java.util.List;
  */
 public class JobData {
 
-    private static final String DATA_FILE = "job_data.csv";
+    private static final String DATA_FILE = "jobdata.csv";
     private static boolean isDataLoaded = false;
 
     private static ArrayList<HashMap<String, String>> allJobs;
